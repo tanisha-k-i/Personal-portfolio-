@@ -13,7 +13,7 @@ CSS: Adding styles and enhancing the user interface.
 GitHub Pages: Hosting and sharing the website online.
 Live Link
 Check out my portfolio here:
-https://tanisha-k-i.github.io/portfolio-website
+https://tanisha-k-i.github.io/Personal-portfolio-/
 
 Future Enhancements
 Add a "Projects" section to highlight completed projects.
